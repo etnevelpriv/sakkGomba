@@ -79,5 +79,6 @@
         <Rectangle x:Name="R87" Margin="600 700 0 0" Height="100" Stroke="Black" Fill="#eeeeee" Width="100" HorizontalAlignment="Left" VerticalAlignment="top"/>
         <Rectangle x:Name="R88" Margin="700 700 0 0" Height="100" Stroke="Black" Fill="#6e260e" Width="100" HorizontalAlignment="Left" VerticalAlignment="top"/>
 
+        
     </Grid>
 </Window>
